@@ -10,7 +10,7 @@
 
 - **Example Code:**
   ```
-  demo/
+  SpatialScope_demos/
   └── EDA_sample.ipynb        # Exploratory analysis demo notebook
   ```
 
