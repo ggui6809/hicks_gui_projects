@@ -26,8 +26,11 @@
   - **Code:**
     ```
     visium_hd_integration/
-    ├── mousebrain_v2_hd_integration.ipynb          # Integration with separate latent space
-    └── mousebrain_v2_hd_integration_shared.ipynb   # Integration with shared latent space
+    ├── mousebrain_v2_hd_integration.ipynb                      # Integration with separate latent space
+    └── mousebrain_v2_hd_integration_shared.ipynb               # Integration with shared latent space
+    Paper_methods/
+    ├── mousebrain_v2_hd_integration_shared_008.ipynb           # Originally code with 008 um
+    └── mousebrain_v2_hd_integration_shared_016_CMA.ipynb       # Modified code with 16 um and new methods
     ```
 
 ## Contact
